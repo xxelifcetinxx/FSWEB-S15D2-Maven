@@ -1,4 +1,5 @@
 package org.example.entity;
 
-public class Priority {
+public enum Priority {
+    HIGH, MED, LOW
 }
